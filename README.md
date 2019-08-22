@@ -2,7 +2,7 @@
 
 ## Background
 
-You are well on your way to becoming a programmer and Excel master! In this homework assignment you will use VBA scripting to analyze real stock market data. Depending on your comfort level with VBA, choose your assignment from Easy, Moderate, or Hard below.
+You are well on your way to becoming a programmer and Excel master! In this assignment you will use VBA scripting to analyze real stock market data. 
 
 ### Files
 
@@ -27,7 +27,7 @@ You are well on your way to becoming a programmer and Excel master! In this home
 
 * Make the appropriate adjustments to your script that will allow it to run on every worksheet, i.e., every year, just by running it once.
 
-* This can be applied to any of the difficulties.
+
 
 ### Other Considerations
 
